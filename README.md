@@ -1,8 +1,11 @@
-# Threaded file writer
+# Java: Write into a file using multiple threads
 This is a simulation on how multiple threads works syncronized to write into the same file. This small excercise shows how to use the program and how it works.
 
-## Java
+## Java usage
 Using threads from java and the notify()-wait() functions and the semaphore class to control the resources consumption. 
+
+## Usage
+Usage here
 
 ## Problem
 The idea is to use the threads to simulate a complex number calculation, said number comes from an input file "number.txt", then this numbers are stored in a queue waiting tobe recolected by a thread, when calculated the thread attemps to write the result in output file "output.txt". Let me describe this problem as a sequence of steps.
