@@ -23,6 +23,7 @@ The idea is to use the threads to simulate a complex number calculation, said nu
  * No errors when the result is written.
  * Total control over wich thread is using the output file.
  * Threads must syncronize when recollecting its number.
+ * The results must say which thread solved it.
  * The user interface must not freeze.
 
 ## Solution
