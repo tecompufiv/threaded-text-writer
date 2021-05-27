@@ -1,5 +1,3 @@
-Hey, can you help with me the task? It's java version 11+.
-
 [Done] You should implement an application in text mode that allows you to find and write divisors of 
 large numbers (minimum uint 32) using a simple method (checking each smaller is a divisor). In 
 order to simulate the complexity of the calculations you can use the Thread.sleep method with 
