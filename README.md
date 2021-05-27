@@ -1,3 +1,4 @@
+# README MUST BE COMPLETED
 # Java: Write into a file using multiple threads
 This is a simulation on how multiple threads works syncronized to write into the same file. This small excercise shows how to use the program and how it works.
 
