@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 /**
- * @implNote Mareksanicki: The number of threads is to be as a program call parameter.
+ * @implNote Exercise: The number of threads is to be as a program call parameter.
  */
 public class App{
     /**

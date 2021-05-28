@@ -7,7 +7,7 @@ import java.io.IOException;
  * The Writer class is a container to control threads requests to write into a file.
  * Works as a wrapper instances to be used by a thread to write into the output file.
  * 
- * @implNote Mareksanicki: We put the results in one .txt file in the form:
+ * @implNote Exercise: We put the results in one .txt file in the form:
  * "number given1: divisors1, divisor2, divisor3 ...
  * number given2: divisors1, divisor2, divisor3 ..."
 */

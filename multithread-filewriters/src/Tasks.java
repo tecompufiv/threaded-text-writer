@@ -5,10 +5,10 @@ import java.util.ArrayList;
  * This class works as the pool (queue) of tasks to be solve, threads retreive one task at the time.
  * And a charger can add new tasks if the queue is empty.
  * 
- * @implNote Mareksanicki: Prepare a shared variable or object that will allow you to submit and retrieve subsequent tasks.
+ * @implNote Exercise: Prepare a shared variable or object that will allow you to submit and retrieve subsequent tasks.
  * 
- * @implNote Mareksanicki: The threads are to wait for the request to retrieve the data.
- * @implNote Mareksanicki: To synchronize threads use the wait-notify mechanism.
+ * @implNote Exercise: The threads are to wait for the request to retrieve the data.
+ * @implNote Exercise: To synchronize threads use the wait-notify mechanism.
  */
 public class Tasks {
     

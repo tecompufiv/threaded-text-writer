@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * @implNote Mareksanicki: You should implement an application in text mode that allows you to find and write divisors of 
+ * @implNote Problem: You should implement an application in text mode that allows you to find and write divisors of 
  * large numbers (minimum uint 32) using a simple method (checking each smaller is a divisor). In 
  * order to simulate the complexity of the calculations you can use the Thread.sleep method with 
  * less time consuming calculations.

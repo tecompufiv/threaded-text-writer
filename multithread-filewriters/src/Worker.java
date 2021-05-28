@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 /**
  * This class is used as a thread to solve a task. 
  * 
- * @implNote Mareksanicki: Use a critical section mechanism (e.g., semaphore) when writing to the file.
+ * @implNote Exercise: Use a critical section mechanism (e.g., semaphore) when writing to the file.
  */
 public class Worker extends Thread{
 

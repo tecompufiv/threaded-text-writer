@@ -4,10 +4,10 @@ import java.util.concurrent.*;
 /**
  * This class works as a controller between user's submits to the pool and the pool queue.
  * Also injects the pool with the data obtained from the input file.
- * @implNote Mareksanicki: Implement the ability to add numbers into the queue 
+ * @implNote Exercise: Implement the ability to add numbers into the queue 
  * from the console (using System.in by means of the Scanner class)
  * 
- * @implNote Mareksanicki: The termination of the application is done by typing in the console: "exit". After the command has been executed 
+ * @implNote Exercise: The termination of the application is done by typing in the console: "exit". After the command has been executed 
 "exit" command all threads are to be correctly terminated and the queue is to be emptied.
  * 
  * @implNote josucano: You can submit numbers from the console, BUT, this option works while

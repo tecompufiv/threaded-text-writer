@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Class in charge to work as a mechanism to read fata from a file and format it.
  * 
- * @implNote Mareksanicki: Prepare a mechanism for initializing the starting numbers retrieved from the .txt file (each number on a new line).
+ * @implNote Excercise: Prepare a mechanism for initializing the starting numbers retrieved from the .txt file (each number on a new line).
  */
 public class Retriever {
     
